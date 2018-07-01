@@ -5,3 +5,4 @@ INDEX VERSION 1.4+/home/icy/source/java/spring-design-patterns/.metadata/.plugin
 3422197250.index
 485644949.index
 2379527995.index
+577379652.index

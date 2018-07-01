@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Singleton.SingletonLazyLoad"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="Prototype.CurrentAccount"/>
+<fullyQualifiedTypeName name="Prototype.SavingAccount"/>
+<fullyQualifiedTypeName name="Prototype.Account"/>
+<fullyQualifiedTypeName name="Prototype.AccountCache"/>
+<fullyQualifiedTypeName name="AdapterPattern.AdvancedPaymentGatewayAdapter"/>
+<fullyQualifiedTypeName name="AdapterPattern.PaymentGateway"/>
+<fullyQualifiedTypeName name="AdapterPattern.PaymentGatewayImpl"/>
+<fullyQualifiedTypeName name="AdapterPattern.Account"/>
+<fullyQualifiedTypeName name="AdapterPattern.SavingAccount"/>
+<fullyQualifiedTypeName name="BridgePattern.SavingAccount"/>
+<fullyQualifiedTypeName name="BridgePattern.CurrentAccount"/>
+</qualifiedTypeNameHistroy>
