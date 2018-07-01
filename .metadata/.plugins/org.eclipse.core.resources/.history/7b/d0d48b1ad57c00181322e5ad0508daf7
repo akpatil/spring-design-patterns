@@ -1,0 +1,6 @@
+package Prototype;
+
+public abstract class Account implements Cloneable {
+
+	public abstract void accountType();
+}
