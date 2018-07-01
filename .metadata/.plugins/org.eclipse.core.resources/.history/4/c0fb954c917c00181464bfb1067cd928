@@ -1,0 +1,17 @@
+package AbstractFactoryPattern;
+
+public class AccountFactory extends AbstractFactory {
+
+	@Override
+	Bank getBank(String bankName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	Account getAccount(String accountName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

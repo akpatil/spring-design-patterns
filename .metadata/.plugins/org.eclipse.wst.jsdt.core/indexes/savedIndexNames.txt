@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/icy/source/java/spring-design-patterns/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1838728088.index
+2939666513.index
+2013492618.index
+3422197250.index
+485644949.index
+2379527995.index

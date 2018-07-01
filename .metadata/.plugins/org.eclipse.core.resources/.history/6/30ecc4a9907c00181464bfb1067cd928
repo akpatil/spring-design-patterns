@@ -1,0 +1,11 @@
+package AbstractFactoryPattern;
+
+public class SavingAccount implements Account {
+
+	@Override
+	public void AccountType() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

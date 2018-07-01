@@ -1,0 +1,10 @@
+package AbstractFactoryPattern;
+
+public class AbstractFactoryPatternMain {
+
+	public static void main(String[] args) {
+		FactoryProducer producer = new FactoryProducer();
+		AbstractFactory fac1 = producer.getFactory("BANK");
+		fac1.getBank("HDFC").bankName();;
+	}
+}

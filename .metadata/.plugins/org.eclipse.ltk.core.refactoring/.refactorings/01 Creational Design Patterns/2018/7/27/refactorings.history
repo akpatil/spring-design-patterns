@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Singleton.SingletonEagerLOad&apos; to &apos;SingletonEagerLoad&apos;&#x0A;- Original project: &apos;01 Creational Design Patterns&apos;&#x0A;- Original element: &apos;Singleton.SingletonEagerLOad&apos;&#x0A;- Renamed element: &apos;Singleton.SingletonEagerLoad&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SingletonEagerLOad&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Singleton{SingletonEagerLOad.java[SingletonEagerLOad" matchStrategy="1" name="SingletonEagerLoad" qualified="false" references="true" similarDeclarations="false" stamp="1530409173006" textual="false" version="1.0"/>
+</session>

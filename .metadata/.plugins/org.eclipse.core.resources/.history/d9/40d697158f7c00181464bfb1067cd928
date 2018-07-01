@@ -1,0 +1,12 @@
+import FactoryPattern.Account;
+
+public class FactoryPatternMain {
+
+	public static void main(String[] args) {
+		AccountFactory fac = new AccountFactory();
+		Account acc = fac.getAccount("SAVING_ACCOUNT");
+		acc.AccountType();
+		acc = fac.getAccount("CURRENT_ACCOUNT");
+		acc.AccountType();
+	}
+}

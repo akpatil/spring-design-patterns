@@ -1,0 +1,15 @@
+public class AccountFactory {
+
+	private static final String SAVING_ACCOUNT = "SAVING_ACCOUNT";
+	private static final String CURRENT_ACCOUNT = "CURRENT_ACCOUNT";
+	
+	public Account getAccount(String account) {
+		if(account.equals(SAVING_ACCOUNT)) {
+			return new SavingsAccount();
+		}
+		else if(account.equals(CURRENT_ACCOUNT)) {
+			return new CurrentAccount();
+		}
+		return null;
+	}
+}
